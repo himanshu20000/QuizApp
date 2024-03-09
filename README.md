@@ -1,6 +1,8 @@
 # My Flutter App
 
 This is a README file for my Flutter app. Below are the packages used in this project:
+![image](https://github.com/himanshu20000/QuizApp/assets/77045558/a31cf46b-08ba-4b5c-bca4-b94931260804)
+
 
 Quiz App Recording - https://drive.google.com/file/d/1BHd6qeRbsWDwQFuY4eb_CadQf35VMVOL/view?usp=drivesdk
 
