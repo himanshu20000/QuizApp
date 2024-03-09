@@ -1,0 +1,11 @@
+{
+    "questionText": "What is Flutter?",
+    "options": {
+      "option1": "A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.",
+      "option2": "A programming language.",
+      "option3": "A game development framework.",
+      "option4": "A database management system."
+    },
+    "correctOption": "option1"
+  }
+  
